@@ -163,7 +163,7 @@ class ELPParser {
 			} else {
 				$t = explode("(", $a, 2);
 				if (sizeof($t)==2) {
-					$tr = explode("/\s/", $t[0]);
+					$tr = preg_split("/\s/", $t[0]);
 					$t[0] = "";
 					foreach ($tr as $rt) {
 						$t[0] .= $lang->getValue($rt) . " ";
