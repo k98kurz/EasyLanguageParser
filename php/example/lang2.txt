@@ -1,0 +1,6 @@
+German
+
+good bye=Auf Wiedersehen
+good=gut
+day=tag
+good day=Guten tag

@@ -1,0 +1,11 @@
+Shop
+#comment
+
+JeansDesc=These are jeans.
+JeansPrice=$20
+
+PantsDesc=These are pants.
+PantsPrice=$12
+
+item1=Jeans
+item2=Pants
